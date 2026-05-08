@@ -1,0 +1,15 @@
+/* NoteList specific styles */
+.note-list-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.empty-state {
+  text-align: center;
+  padding: 60px;
+  background: white;
+  border: 2px dashed #ccc;
+  border-radius: 8px;
+  color: #888;
+}

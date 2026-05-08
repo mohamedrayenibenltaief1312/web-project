@@ -1,0 +1,27 @@
+/* NoteForm specific styles */
+.note-form-card {
+  position: sticky;
+  top: 20px;
+}
+
+.form-title {
+  margin-top: 0;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.button-group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.btn-secondary {
+  background-color: #f8f9fa;
+  color: #333;
+  border: 1px solid #ddd;
+}
+
+.btn-secondary:hover {
+  background-color: #e2e6ea;
+}

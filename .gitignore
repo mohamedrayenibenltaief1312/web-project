@@ -1,0 +1,13 @@
+# Ignore all markdown files in the project
+*.md
+
+# But allow README.md files (root and subfolders)
+!README.md
+
+# Ignore the project PDF
+*.pdf
+
+# Ignore environment files (Security)
+.env
+.env.*
+!.env.example

@@ -1,0 +1,36 @@
+.login-page, .register-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 60px 20px;
+  min-height: 70vh;
+}
+
+.login-page .card, .register-page .card {
+  max-width: 420px;
+  margin: 0 auto;
+}
+
+.footer-text {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--text-muted);
+}
+
+.footer-text a {
+  color: var(--primary-color);
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.footer-text a:hover {
+  text-decoration: underline;
+}
+
+/* Specific button styles for auth */
+.login-page .btn, .register-page .btn {
+  margin-top: 10px;
+  height: 48px;
+}

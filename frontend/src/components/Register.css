@@ -1,0 +1,4 @@
+/* Register specific styles - inheriting from Login.css structure */
+.register-page {
+  padding: 40px 0;
+}
