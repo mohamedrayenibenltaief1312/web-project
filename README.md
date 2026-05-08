@@ -1,6 +1,6 @@
 # NoteSwift - Application de Gestion de Notes Personnelles
 
-NoteSwift est une application web moderne permettant de gérer des notes personnelles avec différents niveaux de priorité. Ce projet a été réalisé avec **Laravel 12** pour le backend et **React 18** pour le frontend.    ..
+NoteSwift est une application web moderne permettant de gérer des notes personnelles avec différents niveaux de priorité. Ce projet a été réalisé avec **Laravel 12** pour le backend et **React 18** pour le frontend.    
 
 ## 🚀 Fonctionnalités
 - Authentification sécurisée par Token (Laravel Sanctum).
